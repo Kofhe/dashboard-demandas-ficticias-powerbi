@@ -1,25 +1,41 @@
-# 📊 Dashboard de Gestão e Acompanhamento de Projetos
+# 📊 Dashboard de Gestão e Acompanhamento de Projetos | Power BI
 
-Este projeto simula um dashboard de acompanhamento de projetos e suas respectivas ações ao longo do ciclo de execução.
+Este projeto simula um ambiente de gestão e acompanhamento de projetos, com foco na análise do andamento de atividades, status de execução e visão gerencial das demandas.
 
-O objetivo é fornecer uma visão gerencial do andamento das atividades, permitindo identificar gargalos, status de entregas e distribuição de trabalho entre setores.
+O objetivo foi construir um dashboard interativo que permita acompanhar desde uma visão executiva até o detalhamento operacional das ações.
 
 ---
 
 ## 🎯 Objetivo do Projeto
-Simular um ambiente de controle de projetos, onde é possível acompanhar:
-- Progresso das ações
-- Status das entregas (Concluído, Em andamento, Não iniciado)
-- Distribuição por setor responsável
-- Prioridade das atividades
+Desenvolver uma solução analítica para acompanhamento de projetos, permitindo:
+- Visão do progresso das atividades
+- Monitoramento de status das demandas
+- Análise de prioridades
+- Identificação de gargalos no fluxo de execução
+- Apoio à tomada de decisão baseada em dados
 
 ---
 
-## 📌 Principais indicadores
-- Total de ações em andamento
-- Taxa de conclusão de atividades
+## 📊 Estrutura do Dashboard
+
+O projeto foi dividido em duas visões integradas:
+
+### 🔹 Dashboard 1 - Visão Geral
+Apresenta uma visão executiva do projeto, incluindo:
+- Total de ações
+- Status geral (Concluído, Em andamento, Não iniciado)
 - Distribuição por prioridade
-- Status geral do projeto
+- Análise por setor responsável
+
+---
+
+### 🔹 Dashboard 2 - Análise Detalhada
+Apresenta uma visão mais operacional e detalhada, incluindo:
+- Registro individual das ações
+- Responsáveis por atividade
+- Datas de início
+- Status detalhado por item
+- Comentários descritivos
 
 ---
 
@@ -29,38 +45,31 @@ Simular um ambiente de controle de projetos, onde é possível acompanhar:
 
 ---
 
-## 📷 Visualizações do Dashboard
+## 🎥 Demonstração do Projeto
 
-### 📊 Dashboard 1 - Visão Geral
+📌 Assista ao vídeo demonstrando a navegação e interação com o dashboard:
+
+👉 https://www.linkedin.com/posts/andreia-tereza-5479002a0_dashboard-de-gest%C3%A3o-e-acompanhamento-de-ugcPost-7478869358040240128-w3jQ/
+
+---
+
+## 📷 Visualizações
+
+### Dashboard 1 - Visão Geral
 ![Dashboard 1](imagens/dashboard-1.png)
 
-### 📊 Dashboard 2 - Análise Detalhada
+### Dashboard 2 - Análise Detalhada
 ![Dashboard 2](imagens/dashboard-2.png)
 
 ---
 
-## 🎥 Demonstração do Projeto
-
-### ▶️ Vídeo do dashboard
-
-📌 Demonstração da navegação, interação com filtros e visualização dos indicadores:
-
-- abertura do menu lateral
-- navegação entre páginas
-- análise de status
-- interação com gráficos
-
-👉 Video:
-video/video-dash.mp4
-
----
-
 ## 💡 Aprendizados
-- Construção de dashboards gerenciais
-- Organização de KPIs de acompanhamento
-- Uso de navegação entre páginas (bookmarks)
-- Criação de visão de status de projetos
+- Construção de dashboards gerenciais no Power BI
+- Estruturação de KPIs para análise de projetos
+- Criação de navegação entre páginas (bookmarks)
+- Organização de visão executiva e operacional
+- Simulação de cenário real de gestão de demandas
 
 ---
 
-⚠️ Projeto com dados fictícios para fins de estudo e portfólio.
+⚠️ Projeto desenvolvido com dados fictícios para fins de estudo e portfólio.
