@@ -29,18 +29,34 @@ Simular um ambiente de controle de projetos, onde é possível acompanhar:
 
 ---
 
-## 📷 Visualização do dashboard
-(Adicionar imagens aqui)
+## 📷 Visualizações do Dashboard
+
+### 📊 Dashboard 1 - Visão Geral
+![Dashboard 1](imagens/dashboard-1.png)
+
+### 📊 Dashboard 2 - Análise Detalhada
+![Dashboard 2](imagens/dashboard-2.png)
 
 ---
 
-## 🎥 Demonstração
-(Adicionar vídeo aqui mostrando navegação e interação)
+## 🎥 Demonstração do Projeto
+
+### ▶️ Vídeo do dashboard
+
+📌 Demonstração da navegação, interação com filtros e visualização dos indicadores:
+
+- abertura do menu lateral
+- navegação entre páginas
+- análise de status
+- interação com gráficos
+
+👉 Video:
+video/video-dash.mp4
 
 ---
 
 ## 💡 Aprendizados
-- Construção de dashboard gerencial
+- Construção de dashboards gerenciais
 - Organização de KPIs de acompanhamento
 - Uso de navegação entre páginas (bookmarks)
 - Criação de visão de status de projetos
